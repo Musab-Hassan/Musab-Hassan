@@ -1,1 +1,2 @@
-### I absolutely love javaScript and it's my one true love. I also have a [website](https://musabhassan.com) where I like to show off. I'm not social enough to have social media so [email](mailto:musabhassan04@gmail.com) will have to do.
+### I absolutely love JavaScript and it's my one true love. 
+### I also have a [website](https://musabhassan.com) where I like to show off.
