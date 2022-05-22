@@ -1,3 +1,3 @@
 <a href="https://musabhassan.com">
-<img src="./Github Banner.jpg" alt="About Musab Hassan">
+<img src="./images/banner.jpg" alt="About Musab Hassan">
 </a>
