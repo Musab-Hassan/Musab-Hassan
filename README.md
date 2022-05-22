@@ -1,2 +1,3 @@
-[![Musab Hassan's stats](https://github-readme-stats.vercel.app/api?username=Musab-Hassan&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br><br>
-View my work on my [Website](https://musabhassan.com)
+<a href="https://musabhassan.com">
+<img src="./Github Banner.jpg" alt="About Musab Hassan">
+</a>
