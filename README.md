@@ -3,4 +3,4 @@
 </a>
 <br>
 
-### I make websites. Check out some of the things I've made on **[my portfolio](https://musabhassan.com)**.
+In my spare time, I love making beautiful web products. Check out some of the things I've made on **[my portfolio](https://musabhassan.com)**.
